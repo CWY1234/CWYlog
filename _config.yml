@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "_config.yml <- Site Author 수정"
+  avatar           : "https://taegon.kim/wp-content/uploads/2018/05/image-5.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person. 주석 # 제거 후 수정 가능"
+  location         : "KOREA, BUSAN"
+  email            : "Email@email.email"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
